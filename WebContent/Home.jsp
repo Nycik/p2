@@ -29,7 +29,7 @@
 								<%break;
 					case 1 : %> <h2>XBOX SERIES</h2> <a href="XboxSeries.jsp" id="blu">vedi tutta la categoria</a> <hr>
 								<%break;
-					case 2 : %> <h2>NINTENDO SWITCH</h2><a href="Switch.jsp" id="blu">vedi tutta la categoria</a>  <hr>
+					case 2 : %> <h2>NINTENDO  SWITCH</h2><a href="Switch.jsp" id="blu">vedi tutta la categoria</a>  <hr>
 								<%break;
 					case 3 : %> <h2>PLAYSTATION 4</h2><a href="Ps4.jsp" id="blu">vedi tutta la categoria</a>  <hr>
 								<%break;
